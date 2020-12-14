@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>344729553930-p0qi4ieq2mm0otmdo2f801gji197h2kt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.344729553930-p0qi4ieq2mm0otmdo2f801gji197h2kt</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>344729553930-dlo109dr8v11ia4v6765kuobfjcc6smj.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAD7BwigdBPZixXHydUWdYAuzEUIapdm1g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>344729553930</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.ImagePicker</string>
+	<key>PROJECT_ID</key>
+	<string>react-image-picker-32f65</string>
+	<key>STORAGE_BUCKET</key>
+	<string>react-image-picker-32f65.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:344729553930:ios:2662ab5ac31815379da3f3</string>
+</dict>
+</plist>

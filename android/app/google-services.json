@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "344729553930",
+    "project_id": "react-image-picker-32f65",
+    "storage_bucket": "react-image-picker-32f65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344729553930:android:b823b473c72e85f39da3f3",
+        "android_client_info": {
+          "package_name": "com.imagepicker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344729553930-dlo109dr8v11ia4v6765kuobfjcc6smj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.imagepicker",
+            "certificate_hash": "d7fba46a62cc61b9aad594084170fd9d4f77cd0e"
+          }
+        },
+        {
+          "client_id": "344729553930-fqsqn2nttalvj3k4p2litcmetra5j3mv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_FAV3nX6CYNGTwfVuEjjIfct3z7RoObA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344729553930-fqsqn2nttalvj3k4p2litcmetra5j3mv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
